@@ -1,4 +1,4 @@
-class StringToIntegerAtoi {
+public class StringToNumber_atoi {
     public int myAtoi(String s) {
         if(s==null) return 0;
 
