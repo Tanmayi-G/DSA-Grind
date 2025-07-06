@@ -1,6 +1,6 @@
 package Arrays;
 
-public class MajorityElement {
+public class MajorityElementBy2 {
     public int majorityElement(int[] arr) {
         int majEle=0;
         int cnt=0;
